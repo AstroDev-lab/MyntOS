@@ -1,3 +1,8 @@
+# Disclaimer!
+This Project will be discontinued untill september. ALSO, this project is in Alpha, so if you look in the Issues tab, youll see things that a software needs.
+Please be paitent
+
+
 # MyntOS
 A new software based off of Linux, ChromeOS, Windows, and MacOS. 
   PLEASE READ!!
